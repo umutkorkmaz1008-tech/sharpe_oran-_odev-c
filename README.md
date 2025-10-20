@@ -16,6 +16,10 @@ Sharpe oranı, bir yatırımın getirisini **riskine göre ölçen finansal bir 
 3. Hesaplanan Sharpe oranı ekrana yazdırılır.
 
 ## Örnek Girdi/Çıktı
+Portföy Getirisi: 0.12
+Risksiz Getiri: 0.03
+Standart Sapma: 0.05
+Sharpe Oranı: 1.8
 
 
 ## Notlar
